@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/freecreative/static/css/main.ebdc9b55.css",
+    "main.js": "/freecreative/static/js/main.817b10be.js",
+    "static/media/20 Kopeek Book.otf": "/freecreative/static/media/20 Kopeek Book.23aa89871ad1927356e4.otf",
+    "index.html": "/freecreative/index.html",
+    "main.ebdc9b55.css.map": "/freecreative/static/css/main.ebdc9b55.css.map",
+    "main.817b10be.js.map": "/freecreative/static/js/main.817b10be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebdc9b55.css",
+    "static/js/main.817b10be.js"
+  ]
+}
