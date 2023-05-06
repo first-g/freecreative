@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "20 Kopeek"; 
+  src: url("./fonts/20\ Kopeek\ Book.otf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+ }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: '20 Kopeek';
+}
