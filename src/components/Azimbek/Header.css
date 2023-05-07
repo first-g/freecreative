@@ -1,0 +1,81 @@
+.header {
+    background: url(../../assets/background.jpg) no-repeat;
+    background-size: cover;
+    background-position: 0%;
+    height: 1080px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav {
+    padding-top: 31px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.nav__logo {
+    display: flex;
+    align-items: center;
+    gap: 23px;
+}
+
+.nav__logo p {
+    font-size: 15px;
+    line-height: 19px;
+}
+
+.nav__menu {
+    display: flex;
+    align-items: center;
+    gap: 23px;
+}
+
+.number {
+    border: 1px solid #FFFFFF;
+    padding: 7px 20px;
+    border-radius: 15px;
+}
+
+.nav__list {
+    padding: 10px;
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+}
+
+.main {
+    padding-top: 319px;
+}
+
+.main h2 {
+    font-size: 55px;
+    line-height: 100%;
+    color: #181818;
+}
+
+.main p {
+    margin-top: 30px;
+    font-size: 34px;
+    line-height: 110%;
+    color: #181818;
+}
+
+.main__buttons {
+    margin-top: 65px;
+    display: flex;
+    gap: 20px;
+}
+
+.main__buttons button {
+    font-size: 18px;
+    line-height: 140%;
+    color: #181818;
+
+    background: #FFFFFF;
+    padding: 23px 40px;
+    border-radius: 40px;
+}
