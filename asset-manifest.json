@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/freecreative/static/css/main.ebdc9b55.css",
-    "main.js": "/freecreative/static/js/main.817b10be.js",
+    "main.css": "/freecreative/static/css/main.8f9a2f2f.css",
+    "main.js": "/freecreative/static/js/main.697bf3c5.js",
+    "static/media/amperia.jpg": "/freecreative/static/media/amperia.3188ead41ccdc3905724.jpg",
+    "static/media/vilata.jpg": "/freecreative/static/media/vilata.fc3654db59e85b28f24f.jpg",
+    "static/media/background.jpg": "/freecreative/static/media/background.342cd31c680a9ad2d2e6.jpg",
+    "static/media/lifecare.jpg": "/freecreative/static/media/lifecare.23d621d7e8e61598a2d3.jpg",
+    "static/media/coralblack.jpg": "/freecreative/static/media/coralblack.07b2f1b64a42a1897e0c.jpg",
     "static/media/20 Kopeek Book.otf": "/freecreative/static/media/20 Kopeek Book.23aa89871ad1927356e4.otf",
     "index.html": "/freecreative/index.html",
-    "main.ebdc9b55.css.map": "/freecreative/static/css/main.ebdc9b55.css.map",
-    "main.817b10be.js.map": "/freecreative/static/js/main.817b10be.js.map"
+    "main.8f9a2f2f.css.map": "/freecreative/static/css/main.8f9a2f2f.css.map",
+    "main.697bf3c5.js.map": "/freecreative/static/js/main.697bf3c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebdc9b55.css",
-    "static/js/main.817b10be.js"
+    "static/css/main.8f9a2f2f.css",
+    "static/js/main.697bf3c5.js"
   ]
 }
