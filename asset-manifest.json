@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/freecreative/static/css/main.b59340d2.css",
-    "main.js": "/freecreative/static/js/main.2f923178.js",
+    "main.css": "/freecreative/static/css/main.1718cb7c.css",
+    "main.js": "/freecreative/static/js/main.5261554f.js",
     "static/media/amperia.jpg": "/freecreative/static/media/amperia.3188ead41ccdc3905724.jpg",
     "static/media/vilata.jpg": "/freecreative/static/media/vilata.fc3654db59e85b28f24f.jpg",
     "static/media/background.jpg": "/freecreative/static/media/background.342cd31c680a9ad2d2e6.jpg",
@@ -10,11 +10,11 @@
     "static/media/guide.jpg": "/freecreative/static/media/guide.786e3f581f116d3c5261.jpg",
     "static/media/20 Kopeek Book.otf": "/freecreative/static/media/20 Kopeek Book.23aa89871ad1927356e4.otf",
     "index.html": "/freecreative/index.html",
-    "main.b59340d2.css.map": "/freecreative/static/css/main.b59340d2.css.map",
-    "main.2f923178.js.map": "/freecreative/static/js/main.2f923178.js.map"
+    "main.1718cb7c.css.map": "/freecreative/static/css/main.1718cb7c.css.map",
+    "main.5261554f.js.map": "/freecreative/static/js/main.5261554f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b59340d2.css",
-    "static/js/main.2f923178.js"
+    "static/css/main.1718cb7c.css",
+    "static/js/main.5261554f.js"
   ]
 }
