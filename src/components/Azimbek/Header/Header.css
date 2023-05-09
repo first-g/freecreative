@@ -1,13 +1,8 @@
 .header {
-    background: url(../../assets/background.jpg) no-repeat;
+    background: url(../../../assets/background.jpg) no-repeat;
     background-size: cover;
     background-position: 0%;
     height: 1080px;
-}
-
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
 }
 
 .nav {
