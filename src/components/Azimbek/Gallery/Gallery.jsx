@@ -20,6 +20,9 @@ const Gallery = () => {
                 {gallery.map(el => {
                     return <GalleryComp id={el.id} img={el.img} title={el.title} text={el.text}/>
                 })}
+                <div className="show-more">
+                    <button>Показать еще</button>
+                </div>
             </div>
         </div>
     )

@@ -32,3 +32,17 @@
     padding: 23px 40px;
     border-radius: 40px;
 }
+
+.show-more {
+    display: flex;
+    justify-content: center;
+}
+
+.show-more button{
+    font-size: 26px;
+    line-height: 110%;
+    color: white;
+    background: #2B59C3;
+    padding: 23px 47px;
+    border-radius: 40px;
+}

@@ -1,0 +1,41 @@
+.guideline__body {
+    padding-top: 100px;
+}
+
+.guideline__body h2{
+    margin-left: 120px;
+    font-size: 38px;
+    line-height: 110%;
+}
+
+.guideline__content {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.guideline__texts {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.guideline__text1{
+    padding: 11px 14px;
+    background: #2B59C3;
+    border-radius: 5px;
+}
+.guideline__text1 h3{
+    font-size: 28px;
+    color: #ffffff;
+}
+.guideline__text1 p{
+    padding-top: 30px;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.guideline__text2{
+    font-size: 18px;
+    color: #000000;
+}
