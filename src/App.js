@@ -2,6 +2,7 @@ import './App.css';
 import Gallery from './components/Azimbek/Gallery/Gallery';
 import Guideline from './components/Azimbek/Guideline/Guideline';
 import Header from './components/Azimbek/Header/Header';
+import FormContact from './components/FormContact';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Gallery/>
       <Guideline />
+      <FormContact />
     </>
   );
 }
