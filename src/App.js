@@ -10,7 +10,7 @@ function App() {
       <Header />
       <Gallery/>
       <Guideline />
-      <FormContact />ghbddscg
+      <FormContact />ghbddsc TUNUK
     </>
   );
 }
